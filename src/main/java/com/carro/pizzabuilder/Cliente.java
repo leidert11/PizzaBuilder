@@ -8,7 +8,7 @@ public class Cliente {
         Scanner scanner = new Scanner(System.in);
 
         int opcion;
-        while (opcion) {
+        while (true) {
             System.out.println("Bienvenido a la aplicación de pizzas");
             System.out.println("Elija el tipo de pizza que desea crear:");
             System.out.println("1. Pizza margarita");

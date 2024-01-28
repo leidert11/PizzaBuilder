@@ -11,4 +11,12 @@
         <maven.compiler.target>17</maven.compiler.target>
         <exec.mainClass>com.carro.pizzabuilder.PizzaBuilder</exec.mainClass>
     </properties>
+
+  <dependencies>
+    <dependency>
+      <groupId>io.github.paul-hernandez99</groupId>
+      <artifactId>dataStructures</artifactId>
+      <version>1.2.3</version>
+    </dependency>
+  </dependencies>
 </project>
